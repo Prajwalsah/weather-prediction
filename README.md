@@ -1,5 +1,4 @@
 # Using Machine Learning to Predict the Weather
-This project is based on a three-part article written by Adam McQuistan in [stackabuse.com](http://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/).
 
 ## Summary
 I won't go into too much detail about the project since you can go to the original article on stackabuse.com; however, here is a little background if you wish to save time. (Although checkout the series, it's worth the read.) 
